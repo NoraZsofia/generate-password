@@ -1,0 +1,81 @@
+/** @format */
+
+body {
+  margin: 0;
+  background-color: #1f2937;
+  height: 100vh;
+}
+
+.container {
+  background-color: #273549;
+  color: #10b981;
+  width: 530px;
+  height: 350px;
+  margin: 60px auto;
+  padding: 10px 30px;
+  border-radius: 25px;
+}
+
+#hero {
+  border-bottom: 2px solid #2f3e53;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: "Karla", sans-serif;
+  font-weight: 700;
+  margin: 10px, 15px;
+  height: 70px;
+  font-size: 40px;
+}
+h2 {
+  color: #e5e5e5;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+span {
+  color: white;
+}
+
+button {
+  padding: 8px 40px;
+  border: none;
+  border-radius: 5px;
+  height:36px;
+  background-color: #10b981;
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+  border: none;
+  margin-top: 25px;
+}
+
+#results {
+  display: flex;
+  justify-content: space-around;
+}
+
+.passwords {
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 16;
+  padding: 8px 40px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2f3e53;
+  box-shadow: 0 0 1px black;
+  color: #55f991;
+  letter-spacing: 1.2;
+  height: 20px;
+  width: 200px;
+  text-align: center;
+  margin: 10px;
+}
+
+
+
+
+
